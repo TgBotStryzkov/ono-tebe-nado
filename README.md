@@ -1,4 +1,4 @@
-https://github.com/TgBotStryzkov/ono-tebe-nado
+https://github.com/TgBotStryzkov/ono-tebe-nado-ad
 
 # Яндекс Практикум, 2 спринт, проект "Оно тебе надо"
 
