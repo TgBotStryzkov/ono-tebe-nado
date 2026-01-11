@@ -26,8 +26,7 @@ https://github.com/MikeBeloborodov/ono-tebe-nado
 ## Автор
 
 - Github - [TgBotStryzkov](https://github.com/TgBotStryzkov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
-
+  
 ## Благодарность
 
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
+Благодарю всех в Яндекс Практикуме за дизайн и за уроки!
